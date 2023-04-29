@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hello There!
+I'm a CS student in my 3rd year of undergraduate studies, with experience in various programming languages and tools. I'm currenlty looking for an internship/job to gain some experience in the field.
 
-<!--
-**AndyHCode/AndyHCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+    🔭 I’m currently working on a mini projects
+    🌱 I’m currently learning Linux and Python
+    🤔 I’m looking for help with finding an internship
+    
+    ⌨️ Favorite editor: Neovim/VS Code
+    🖥️ Favorite language: Python/C++
+    🐧 Current Linux Distro: EndeavourOS
 
-Here are some ideas to get you started:
+## 🛠 Tools
+|  Languages/Tools |
+|---|
+|🐍Python|
+|🔷C/C++|
+|☕Java|
+|🌐HTML/CSS|
+|🐧Linux|
+|📓Vim|
+|🗒️LaTex|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-huang-649046212/)
