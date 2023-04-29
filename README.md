@@ -1,5 +1,5 @@
 # 👋 Hello There!
-I'm a CS student in my 3rd year of undergraduate studies, with experience in various programming languages and tools. I'm currenlty looking for an internship/job to gain some experience in the field.
+I'm a CS student in my 3rd year of undergraduate studies, with experience in various programming languages and tools. I'm currenlty looking for an internship/job to gain some experience in said field.
 
 ## 🚀 About Me
     🔭 I’m currently working on a mini projects
