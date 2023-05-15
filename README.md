@@ -5,13 +5,12 @@ I'm a CS student in my 3rd year of undergraduate studies, with experience in var
 ## 🚀 About Me
 <img src="https://github-readme-stats.vercel.app/api?username=AndyHCode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub readme stats" width=450px align=right>
 
-    🔭 I’m currently working on a mini projects
-    🌱 I’m currently learning Linux and Python
-    🤔 I’m looking for help with finding an internship
-    
-    ⌨️ Favorite editor: Neovim/VS Code
-    🖥️ Favorite language: Python/C++
-    🐧 Current Linux Distro: EndeavourOS
+   - 🔭 I’m currently working on a mini projects
+   - 🌱 I’m currently learning Linux and Python
+   - 🤔 I’m looking for help with finding an internship
+   - ⌨️ Favorite editor: Neovim/VS Code
+   - 🖥️ Favorite language: Python/C++
+   - 🐧 Current Linux Distro: EndeavourOS
 
 ## 🛠 Tools
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyHCode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub readme stats" width=350px align=right>
