@@ -28,3 +28,5 @@ I'm a CS student in my third year of undergraduate studies, with experience in v
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-huang-649046212/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge)](https://portfolio-git-main-andyhcode.vercel.app/)
+
