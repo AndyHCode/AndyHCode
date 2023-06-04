@@ -24,7 +24,7 @@ I'm a CS student in my 3rd year of undergraduate studies, with experience in var
 |🌐HTML/CSS|
 |🐧Linux|
 |📓Vim|
-|🗒️LaTex|
+|🗒️LaTex/Markdown|
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-huang-649046212/)
