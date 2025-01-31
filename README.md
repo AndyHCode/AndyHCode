@@ -2,7 +2,7 @@
 Hi there! I'm Andy, a Computer Science graduate with a strong interest in software development, full-stack engineering, and Linux systems. I'm always eager to learn, build cool projects, and take on new challenges in the tech industry!  
 
 ## 🚀 About Me  
-<img src="https://github-readme-stats.vercel.app/api?username=AndyHCode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub readme stats" width=450px align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=AndyHCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub readme stats" width=450px align=right>
 
 - 🔭 I’m currently learning the Rust programming language  
 - 🌱 I’m deepening my knowledge in full-stack development and Linux system administration  
@@ -12,14 +12,21 @@ Hi there! I'm Andy, a Computer Science graduate with a strong interest in softwa
 - 🐧 Current Linux Distro: EndeavourOS  
 
 ## 🛠 Tech Stack & Tools  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyHCode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub readme stats" width=350px align=right>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyHCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub readme stats" width=350px align=right>
 
-💻 **Languages**: Python, C/C++, Java, Swift, HTML/CSS
-🛠 **Tools**: Vim/NeoVim, VS Code, LaTeX, Markdown
-🐧 **OS**: Linux (EndeavourOS)/ Windows
+💻 Languages: Python, C/C++, Java, Swift, HTML/CSS, SQL
+
+🛠 Frameworks & Tools: Flask, Docker, Kubernetes, Git, SQLite, Sherpa-ONNX, SwiftUI
+
+🐧 OS: Linux (EndeavourOS), Windows, macOS
+
+📊 Development Tools: Vim/NeoVim, VS Code, LaTeX, Markdown, Xcode
+
+📝 Design & Documentation: Word, Excel, PowerPoint, Access, Markdown, LaTeX
 
 ## 📊 GitHub Activity  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndyHCode&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=AndyHCode&theme=tokyonight-duo&hide_border=false&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width=450px align=right><br><br><br><br><br><br>
+
 
 
 ## 🔗 Links  
