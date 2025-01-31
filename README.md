@@ -19,7 +19,8 @@ Hi there! I'm Andy, a Computer Science graduate with a strong interest in softwa
 🐧 **OS**: Linux (EndeavourOS)/ Windows
 
 ## 📊 GitHub Activity  
-![GitHub Streak](https://streak-stats.demolab.com?user=AndyHCode&theme=tokyonight&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndyHCode&theme=tokyonight&hide_border=false)
+
 
 ## 🔗 Links  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-huang-649046212/)  
